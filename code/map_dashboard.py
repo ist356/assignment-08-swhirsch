@@ -15,7 +15,6 @@ VMAX = 5000                 # max value for color scale
 
 
 
-
 df = pd.read_csv('./cache/top_locations_mappable.csv')
 
 st.title('Top Locations for Parking Tickets within Syracuse')
