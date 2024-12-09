@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Sam Hirsch
+Sudent Email:  swhirsch@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,7 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+
+Assignment 8 
+
+In Assignment 8, I learned how to create interactive dashboards through matplotlib.pyplot, seaborn, folium, and geopandas. The examined Syracuse, NY, and mapped hot spots of ticketing locations within the city. 
